@@ -1,0 +1,19 @@
+.root
+{
+    cor1: #dc1d0d;
+    cor2: #e52e19;
+    cor3: #ee3e25;
+    cor4: #f64f32;
+    cor5: #ff603e;
+
+    cor6: #fcd65f;
+    cor7: #fde078;
+    cor8: #feeb91;
+    cor9: #fef5a9;
+    cor10: #ffffc2;
+}
+
+.botoes
+{
+    border-color: var(--cor2);
+}
