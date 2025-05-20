@@ -13,7 +13,17 @@
     cor10: #ffffc2;
 }
 
-.botoes
+body
 {
-    border-color: var(--cor2);
+    background-color: #fef5a9;
+}
+
+h1
+{
+    color: #dc1d0d
+}
+
+h5
+{
+    color: #dc1d0d
 }
